@@ -1,4 +1,4 @@
-### Ask a Techspe:
+### Ask a Techspert:
 - [What is generative AI?](https://blog.google/inside-google/googlers/ask-a-techspe/what-is-generative-ai/)
 
 ### What is generative AI?
